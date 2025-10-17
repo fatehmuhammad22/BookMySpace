@@ -29,8 +29,23 @@ Users can browse available venues, view details, book time slots, and manage the
 
 ## 📸 Screenshots
 
-*(Add screenshots here to showcase UI and features)*  
-> Example: `screenshots/home.png`, `screenshots/booking.png`
+Below are some screenshots of the **BookMySpace** app showcasing its clean UI and smooth functionality:
+
+### 🏠 Home Screen  
+![Home Screen](screenshots/1.png)
+
+### 📅 Booking Screen  
+![Booking Screen](screenshots/2.png)
+
+### 🏟️ Ground Details  
+![Ground Details](screenshots/3.png)
+
+### 👤 User Profile  
+![User Profile](screenshots/4.png)
+
+### 🔔 Notifications  
+![Notifications](screenshots/5.png)
+
 
 ---
 
