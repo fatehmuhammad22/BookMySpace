@@ -27,28 +27,6 @@ Users can browse available venues, view details, book time slots, and manage the
 
 ---
 
-## 📸 Screenshots
-
-Below are some screenshots of the **BookMySpace** app showcasing its clean UI and smooth functionality:
-
-### 🏠 Home Screen  
-![Home Screen](screenshots/1.jpg)
-
-### 📅 Booking Screen  
-![Booking Screen](screenshots/2.jpg)
-
-### 🏟️ Ground Details  
-![Ground Details](screenshots/3.jpg)
-
-### 👤 User Profile  
-![User Profile](screenshots/4.jpg)
-
-### 🔔 Notifications  
-![Notifications](screenshots/5.jpg)
-
-
----
-
 ## ⚙️ Installation & Setup
 
 ```bash
